@@ -58,6 +58,15 @@ I am a web developer currently pursuing my degree in Software Engineering at Ada
   <img height=auto width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrix726&layout=compact&theme=github_dark&exclude_repo=CS1graphics-Project" alt="Top langs">
 </div>
 <!--START_SECTION:waka-->
+
+```txt
+Python       9 hrs 58 mins   ███████████████░░░░░░░░░░   60.38 %
+JavaScript   3 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+HTML         2 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+```
+
 <!--END_SECTION:waka-->
 <br/>
 <img align="right" src="https://komarev.com/ghpvc/?username=patrix726&color=ef8354&style=for-the-badge&abbreviated=true">
