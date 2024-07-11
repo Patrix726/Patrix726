@@ -57,6 +57,8 @@ I am a web developer currently pursuing my degree in Software Engineering at Ada
   <img height=auto width=52.6% src="https://github-readme-stats.vercel.app/api?username=patrix726&show_icons=true&theme=github_dark" alt="Nebil's Github stats">
   <img height=auto width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrix726&layout=compact&theme=github_dark&exclude_repo=CS1graphics-Project" alt="Top langs">
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br/>
 <img align="right" src="https://komarev.com/ghpvc/?username=patrix726&color=ef8354&style=for-the-badge&abbreviated=true">
 
