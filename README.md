@@ -1,4 +1,6 @@
 
+<img src="./ReadMe-Header.png">
+
 ### Hi👋, I'm Nebil
 I am a web developer currently pursuing my degree in Software Engineering at Adama Science and Technology University. I am passionate about creating beautiful and functional websites that provide an enjoyable user experience.
 - 🌱 I’m currently learning backend web development
@@ -20,7 +22,7 @@ I am a web developer currently pursuing my degree in Software Engineering at Ada
 <br/>
 <br/>
 
-### 🧰 Libraries/Frameworks
+### <img alt="🧰" height="20px" src="https://img.icons8.com/?size=100&id=0SUK7eSJS0sH&format=png&color=000000"/> Libraries/Frameworks
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -40,17 +42,14 @@ I am a web developer currently pursuing my degree in Software Engineering at Ada
 <br/>
 <br/>
 
-### 🧰 Tools
+### 🔧 Tools
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-
 <br/>
 <br/>
-
-#
 
 ### 📊 Stats
 
