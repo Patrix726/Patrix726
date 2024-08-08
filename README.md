@@ -60,15 +60,15 @@ I am a web developer currently pursuing my degree in Software Engineering at Ada
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2024 - To: 05 August 2024
+From: 07 July 2024 - To: 06 August 2024
 
-Total Time: 73 hrs 57 mins
+Total Time: 76 hrs 17 mins
 
-Python        37 hrs 38 mins  ████████████▓░░░░░░░░░░░░   50.86 %
-TypeScript    22 hrs 19 mins  ███████▓░░░░░░░░░░░░░░░░░   30.18 %
-JavaScript    7 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-HTML          2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-JSON          2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Python        37 hrs 10 mins  ████████████▒░░░░░░░░░░░░   48.70 %
+TypeScript    25 hrs 26 mins  ████████▒░░░░░░░░░░░░░░░░   33.33 %
+JavaScript    7 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+JSON          2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+CSS           1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
