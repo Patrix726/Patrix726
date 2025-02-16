@@ -1,15 +1,22 @@
 
+
 <img src="./ReadMe-Header.png">
 
 ### Hi👋, I'm Nebil
-I am a web developer currently pursuing my degree in Software Engineering at Adama Science and Technology University. I am passionate about creating beautiful and functional websites that provide an enjoyable user experience.
-- 🌱 I’m currently learning backend web development
+I am a Full-Stack developer from Ethiopia passionate about building scalable and efficient web apps that provide an enjoyable user experience. I specialize in React/Next.js for frontend and Node.js for backend. I also have experience in cross-platform mobile development using Flutter and React native.
+- 🌱 I’m currently learning testing frameworks to build robust apps.
 - 👯 I’m looking to collaborate on any fun projects
-- 📫 How to reach me: [Telegram](https://t.me/patrix726)
+#### Connect with me:
+<p align="left">  
+<a href="https://linkedin.com/in/linkedin.com/in/nebilrahmeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nebilrahmeto" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/patrix726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patrix726" height="30" width="40" /></a>  
+</p>
 
 ---
+
 ### 🧰 Languages
 
+<p align="left">
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -18,38 +25,55 @@ I am a web developer currently pursuing my degree in Software Engineering at Ada
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Dart" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<img align="left" alt="Bash" width="40px" src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" />
+</p>
 
 <br/>
 <br/>
 
 ### <img alt="🧰" height="20px" src="https://img.icons8.com/?size=100&id=0SUK7eSJS0sH&format=png&color=000000"/> Libraries/Frameworks
+
+<p align="left">
+<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NextJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Remix" width="40px" style="padding-right:10px;" src="https://remix.run/_brand/remix-letter-glowing.svg" />
+<img align="left" alt="Redux"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;" alt="redux" width="40" height="40"/>
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Express" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=104A8F" />
-<img align="left" alt="NextJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;"  width="40" height="40"/>
+<img align="left" alt="Spring-Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="padding-right:10px;" width="40" height="40"/>
 <img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="padding-right:10px;" width="40" height="40"/>
+
+</p>
 
 <br/>
 <br/>
 
 ### <img alt="🧰" width="18px" src="https://img.icons8.com/?size=100&id=1476&format=png&color=104A8F"/> Database
+
+<p align="left">
 <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Postgresql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Redis" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
+</p>
+
 
 <br/>
 <br/>
 
 ### 🔧 Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<br/>
-<br/>
+</p>
 
 ### 📊 Stats
 
