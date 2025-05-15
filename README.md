@@ -84,15 +84,15 @@ I am a Full-Stack developer from Ethiopia passionate about building scalable and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 12 May 2025
+From: 13 April 2025 - To: 13 May 2025
 
-Total Time: 41 hrs 37 mins
+Total Time: 42 hrs 23 mins
 
-TypeScript   28 hrs 28 mins  █████████████████░░░░░░░░   67.48 %
-Python       3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Git          2 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-SQL          2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-Lua          1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+TypeScript   27 hrs 48 mins  ████████████████░░░░░░░░░   64.66 %
+SQL          4 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Python       2 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Git          2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Lua          1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
