@@ -8,8 +8,8 @@ I am a Full-Stack developer from Ethiopia passionate about building scalable and
 - 👯 I’m looking to collaborate on any fun projects
 #### Connect with me:
 <p align="left">  
-<a href="https://linkedin.com/in/nebilrahmeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nebilrahmeto" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/patrix726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patrix726" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/nebilrahmeto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nebilrahmeto" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/patrix726" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patrix726" height="30" width="40" /></a>  
 </p>
 
 ---
