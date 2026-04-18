@@ -6,13 +6,18 @@
 I am a Full-Stack developer from Ethiopia passionate about building scalable and efficient web apps that provide an enjoyable user experience. I specialize in React/Next.js for frontend and Node.js for backend. I also have experience in cross-platform mobile development using Flutter and React native.
 - 🌱 I’m currently learning testing frameworks to build robust apps.
 - 👯 I’m looking to collaborate on any fun projects
-#### Connect with me:
-<p align="left">  
-<a href="https://linkedin.com/in/nebilrahmeto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nebilrahmeto" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/patrix726" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patrix726" height="30" width="40" /></a>  
-</p>
 
----
+#### Connect with me:
+
+<a href="https://linkedin.com/in/nebilrahmeto" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nebilrahmeto" height="30px" width="40px" />
+</a>
+<a href="https://www.leetcode.com/patrix726" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patrix726" height="30px" width="40px" />
+</a>
+
+<br/>
+<br/>
 
 ### 🧰 Languages
 
@@ -37,15 +42,15 @@ I am a Full-Stack developer from Ethiopia passionate about building scalable and
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NextJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Remix" width="40px" style="padding-right:10px;" src="https://remix.run/_brand/remix-letter-glowing.svg" />
-<img align="left" alt="Redux"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;" alt="redux" width="40" height="40"/>
+<img align="left" alt="Redux"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="padding-right:10px;" alt="redux" width="40px" height="40px"/>
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Express" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=104A8F" />
-<img align="left" alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;"  width="40" height="40"/>
-<img align="left" alt="Spring-Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="padding-right:10px;" width="40" height="40"/>
+<img align="left" alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="padding-right:10px;"  width="40px" height="40px"/>
+<img align="left" alt="Spring-Boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="padding-right:10px;" width="40px" height="40px"/>
 <img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="padding-right:10px;" width="40" height="40"/>
+<img align="left" alt="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="padding-right:10px;" width="40px" height="40px"/>
 
 </p>
 
@@ -68,12 +73,15 @@ I am a Full-Stack developer from Ethiopia passionate about building scalable and
 ### 🔧 Tools
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img align="left" alt="Docker" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
+
+<br/>
+<br/>
 
 ### 📊 Stats
 
